@@ -22,4 +22,5 @@ jobs:
         id: upload-document
         with:
           name: 'resume.pdf'
-          path: ${{ steps.publish-document.outputs.pdf }}
+          path: .
+#           path: ${{ steps.publish-document.outputs.pdf }}
