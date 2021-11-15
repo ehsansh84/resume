@@ -1,12 +1,6 @@
-
-<style>
-td, th, table {
-   border: none!important;
-}
-</style>
 #EHSAN SHIRZADI
 ###Python backend developer - DevOps engineer
-|![](images/tel2.png)+989155066372|![](images/email2.png)ehsan.shirzadi@gmail.com|![](images/web2.png)ehsanshirzadi.com|
+|![](images/tel2.png)+989155066372|![](images/email2.png)ehsan.shirzadi@gmail.com|![](images/web2.png)www.ehsanshirzadi.com|
 |---|---|---|
 |![](images/stack2.png)Stackoverflow|![](images/linkdin2.png)Linkedin|![](images/github2.png)Github|
 ###About
@@ -22,8 +16,13 @@ It's my pleasure to work on the edge of technology.
 - Choosing suitable database creating high performance queries
 - Learning new technologies that improve my work
 ###What I’m using as a developer?
-Python MongoDB Elasticsearch Redis Flask Nginx Docker Linux
-RabbitMQ 
+|||
+|---|---|
+|Python|Git|
+|MongoDB|RabbitMQ|
+|Elasticsearch|Linux|
+|Redis|Nginx|
+|Docker|Bash script|
 ###What I’m doing for DevOps?
 - Git (Installation of a private Gitlab server)
 - CICD (Using Gitlab, Github, Jenkins, ArgoCD)
@@ -101,5 +100,4 @@ A few years ago I used to play Travian online game, I created a bot to play it f
 1. Course1: Crash Course on Python
 2. Course2: Using Python to Interact with the Operating System
 3. Course3: Introduction to Git and GitHub
-
 
