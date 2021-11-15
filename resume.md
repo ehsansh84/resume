@@ -89,15 +89,15 @@ A few years ago I used to play Travian online game, I created a bot to play it f
 - Predicting the Academy Awards’ result by analyzing tweets
 ###Courses and certificates
 - Professional Scrum Master
-- Continuous Delivery & DevOps by University of Virginia
-- Python for Everybody (Specialization by University of Michigan):
-1. Course1: Programming for Everybody
-2. Course2: Python Data Structures(Python certification)
-3. Course2: Using Python to Access Web Data
-4. Course4: Using Databases with Python
-5. Course5: Retrieving, Processing, and Visualizing Data with Python
+- [Continuous Delivery & DevOps by University of Virginia](https://www.coursera.org/account/accomplishments/verify/83DMG8KFR9Z2)
+- [Python for Everybody (Specialization by University of Michigan):](https://www.coursera.org/account/accomplishments/specialization/GP5R6CB8UPAY)
+1. [Course1: Programming for Everybody](https://www.coursera.org/account/accomplishments/verify/PKT7AAWCDLRK)
+2. [Course2: Python Data Structures](https://www.coursera.org/account/accomplishments/verify/7WHZX2CLGQL8)
+3. [Course2: Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/verify/2PWVPYNPFJLU)
+4. [Course4: Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/UHDCBZNUPT64)
+5. [Course5: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/HYPYLP3U3WXN)
 - Google IT Automation with Python (Specialization by Google):
-1. Course1: Crash Course on Python
-2. Course2: Using Python to Interact with the Operating System
-3. Course3: Introduction to Git and GitHub
+1. [Course1: Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/RF548WESG5W7)
+2. [Course2: Using Python to Interact with the Operating System]()
+3. [ Course3: Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/JHZV424Z579R)
 
