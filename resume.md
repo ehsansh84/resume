@@ -51,7 +51,7 @@ It's my pleasure to work on the edge of technology.
 >#### Senior Backend developer `Negahe khabari news bulletin maker` May 2013 – Aug 2016
 >Negahe khabari is a newshub project which crawl news from different sources and let user to create a customized bulletin  based on his/her interests
 
->####ASP.NET Web developer `Lots of web sites for people and companies` Apr 2010 – Sep 2012
+>#### ASP.NET Web developer `Lots of web sites for people and companies` Apr 2010 – Sep 2012
 
 >#### Senior Backend developer and strategy implementation `Currency signals` 2018
 >Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that analyze 1600 crypto currencies based on some strategies using different indicators to find buy/sell signals. You can see the results on a web panel and filter them as you wish.
