@@ -1,21 +1,21 @@
-#EHSAN SHIRZADI
-###Python backend developer - DevOps engineer
-|![](images/tel2.png)+989155066372|![](images/email2.png)ehsan.shirzadi@gmail.com|![](images/web2.png)www.ehsanshirzadi.com|
+# EHSAN SHIRZADI
+### Python backend developer - DevOps engineer
+|![](images/tel2.png)+9811111111111|![](images/email2.png)A.B@gmail.com|![](images/web2.png)www.web.com|
 |---|---|---|
 |![](images/stack2.png)Stackoverflow|![](images/linkdin2.png)Linkedin|![](images/github2.png)Github|
-###About
+### About
 I'm a senior backend developer and DevOps engineer with +18 years of experience in programming. I'm passionate about learning new technologies and I believe the best way to learn is by doing in a fun way.
 It's my pleasure to work on the edge of technology.
-###Education 
+### Education 
 - Master of science in computer software engineering – University of Tehran – 2012-2014
 - Bachelor of science in computer software engineering – Khayyam university of Mashhad 2008-2010
-###What is too easy for me?
+### What is too easy for me?
 - Developing RESTful APIs
 - Micro service architecture
 - Web crawling and gathering information
 - Choosing suitable database creating high performance queries
 - Learning new technologies that improve my work
-###What I’m using as a developer?
+### What I’m using as a developer?
 |||
 |---|---|
 |Python|Git|
@@ -23,7 +23,7 @@ It's my pleasure to work on the edge of technology.
 |Elasticsearch|Linux|
 |Redis|Nginx|
 |Docker|Bash script|
-###What I’m doing for DevOps?
+### What I’m doing for DevOps?
 - Git (Installation of a private Gitlab server)
 - CICD (Using Gitlab, Github, Jenkins, ArgoCD)
 - Containerization using Docker
@@ -34,7 +34,7 @@ It's my pleasure to work on the edge of technology.
 - Load balancing using Nginx or Haproxy
 - Configure Harbor as Container repository
 - Configure KeyCloak as SSO
-###Projects
+### Projects
   - DevOps engineer
 K8S Cluster manager
   A project that creates a whole k8s cluster on OpenStack cloud environment through APIs 
@@ -73,7 +73,7 @@ Currency signals
 
 Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that analyze 1600 crypto currencies based on some strategies using different indicators to find buy/sell signals. You can see the results on a web panel and filter them as you wish.
 
-###Personal Projects
+### Personal Projects
 - KM Rest
 A python REST API framework I wrote based on Tornado which I’m rewriting it in Flask nowadays that can handles all my needs in my projects.
 
@@ -83,11 +83,11 @@ A Server monitoring bot which monitors all services and server resources, in cas
 - Travian bot
 A few years ago I used to play Travian online game, I created a bot to play it for me exactly the way I was playing :)
 
-###Publications
+### Publications
 - Adverse Drug Event Discovery Using Biomedical Literature: A Big Data Neural Network Adventure
 - Machine-Written Character Recognition Using A Supervised Machine Learning Approach
 - Predicting the Academy Awards’ result by analyzing tweets
-###Courses and certificates
+### Courses and certificates
 - Professional Scrum Master
 - [Continuous Delivery & DevOps by University of Virginia](https://www.coursera.org/account/accomplishments/verify/83DMG8KFR9Z2)
 - [Python for Everybody (Specialization by University of Michigan):](https://www.coursera.org/account/accomplishments/specialization/GP5R6CB8UPAY)
