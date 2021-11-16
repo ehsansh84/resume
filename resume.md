@@ -1,6 +1,6 @@
 # EHSAN SHIRZADI
 ### Python backend developer - DevOps engineer
-|![](images/tel2.png)+9811111111111|![](images/email2.png)A.B@gmail.com|![](images/web2.png)www.web.com|
+|![](images/tel2.png)+989155066372|![](images/email2.png)ehsan.shirzadi@gmail.com|![](images/web2.png)www.ehsanshirzadi.com|
 |---|---|---|
 |![](images/stack2.png)Stackoverflow|![](images/linkdin2.png)Linkedin|![](images/github2.png)Github|
 ### About
