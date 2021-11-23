@@ -69,7 +69,7 @@ It's my pleasure to work on the edge of technology.
 ### Publications
 - [Adverse Drug Event Discovery Using Biomedical Literature: A Big Data Neural Network Adventure](https://www.ncbi.nlm.nih.gov/pubmed/29222076)
 - Machine-Written Character Recognition Using A Supervised Machine Learning Approach
-- Predicting the Academy Awards’ result by analyzing tweets
+- [Predicting the Academy Awards’ result by analyzing tweets](https://www.researchgate.net/profile/Abouzar-Abbaspourghomi/publication/240615006_Predicting_the_Academy_Awards'_result_by_analyzing_tweets/links/00b4951c6d7c3adeee000000/Predicting-the-Academy-Awards-result-by-analyzing-tweets.pdf)
 ### Courses and certificates
 - Professional Scrum Master
 - [Continuous Delivery & DevOps by University of Virginia](https://www.coursera.org/account/accomplishments/verify/83DMG8KFR9Z2)
