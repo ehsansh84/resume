@@ -1,8 +1,8 @@
 # EHSAN SHIRZADI
 ### Python backend developer - DevOps engineer
-|![](images/tel2.png)+989155066372|![](images/email2.png)ehsan.shirzadi@gmail.com|![](images/web2.png)www.ehsanshirzadi.com|
+|![](images/tel2.png)+989155066372|[![](images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)|![](images/web2.png)www.ehsanshirzadi.com|
 |---|---|---|
-|![](images/stack2.png)Stackoverflow|![](images/linkdin2.png)Linkedin|![](images/github2.png)Github|
+|[![](images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)|[![](images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/)|[![](images/github2.png)Github](https://github.com/ehsansh84)|
 ### About
 I'm a senior backend developer and DevOps engineer with +18 years of experience in programming. I'm passionate about learning new technologies and I believe the best way to learn is by doing in a fun way.
 It's my pleasure to work on the edge of technology.
