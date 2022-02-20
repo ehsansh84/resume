@@ -54,7 +54,7 @@ It's my pleasure to work on the edge of technology.
 >#### ASP.NET Web developer `Lots of web sites for people and companies` Apr 2010 – Sep 2012
 
 >#### Senior Backend developer and strategy implementation `Currency signals` 2018
->Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that analyze 1600 crypto currencies based on some strategies using different indicators to find buy/sell signals. You can see the results on a web panel and filter them as you wish.
+>Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that analyze 1600 crypto currencies based on some strategies using different indicators to find buy/sell signals. The results could be seen on a web panel and be filtered as you wish.
 
 ### Personal Projects
 >#### [KM Rest](https://github.com/ehsansh84/km-rest.git)
