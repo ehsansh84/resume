@@ -46,7 +46,7 @@ It's my pleasure to work on the edge of technology.
 >Miz newshub is a news crawler that allows user to read his/her customized news daily
 
 >#### Senior Backend Developer `Zibasoo online beauty salon booking system` Jan 2018 – Aug 2020
-> An online beauty salon reservation system that you can find and compare salon's portfolios and prices and decide to choose your most suitable services for you.
+> An online beauty salon reservation system that you can find and compare salon's portfolios and prices and decide to choose the most suitable services for you.
 
 >#### Senior Backend developer `Negahe khabari news bulletin maker` May 2013 – Aug 2016
 >Negahe khabari is a newshub project which crawl news from different sources and let user to create a customized bulletin  based on his/her interests
