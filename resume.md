@@ -1,5 +1,5 @@
 # EHSAN SHIRZADI
-### Python backend developer - DevOps engineer
+## Senior Python backend developer - DevOps engineer
 |![](images/tel2.png)+989155066372|[![](images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)|![](images/web2.png)www.ehsanshirzadi.com|
 |---|---|---|
 |[![](images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)|[![](images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/)|[![](images/github2.png)Github](https://github.com/ehsansh84)|
@@ -8,32 +8,20 @@ I'm a senior backend developer and DevOps engineer with +18 years of experience 
 It's my pleasure to work on the edge of technology.
 ### Education 
 - Master of science in computer software engineering – University of Tehran – 2012-2014
-- Bachelor of science in computer software engineering – Khayyam university of Mashhad 2008-2010
-### What is too easy for me?
-- Developing RESTful APIs
-- Micro service architecture
-- Web crawling and gathering information
-- Choosing suitable database creating high performance queries
-- Learning new technologies that improve my work
-### What I’m using as a developer?
-|||
-|---|---|
-|Python|Git|
-|MongoDB|RabbitMQ|
-|Elasticsearch|Linux|
-|Redis|Nginx|
-|Docker|Bash script|
-### What I’m doing for DevOps?
-- Git (Installation of a private Gitlab server)
-- CICD (Using Gitlab, Github, Jenkins, ArgoCD)
-- Containerization using Docker
-- Orchestration using Kubernetes
-- Server and service monitoring using my custom tools
-- Test automation using Jmeter
-- Task automation using Python or Bash scripts and Ansible
-- Load balancing using Nginx or Haproxy
-- Configure Harbor as Container repository
-- Configure KeyCloak as SSO
+### My skills
+- Development: 
+`python` `git` `web crawlers` `tornado` `FastAPI` `celery` 
+- Databases:
+`nosql databases` `mongodb` `elasticsearch` `redis`
+- Technologies:
+`Rest APIs` `rabbitmq` 
+- Design: 
+`system arcitecture` `web services` `micro services` `distributed systems`
+- DevOps tools:
+`docker` `CICD pipelines` `kubernetes` `argocd`
+- Other: 
+`linux` `bash` `nginx` `haproxy`
+
 ### Projects
 >#### DevOps engineer `K8S Cluster manager` 2021
 >A project that creates a whole k8s cluster on OpenStack cloud environment through APIs 
