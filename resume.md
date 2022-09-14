@@ -9,17 +9,17 @@ It's my pleasure to work on the edge of technology.
 ### Education 
 - Master of science in computer software engineering – University of Tehran – 2012-2014
 ### My skills
-- Development: 
-`python` `git` `web crawlers` `tornado` `FastAPI` `celery` 
-- Databases:
-`nosql databases` `mongodb` `elasticsearch` `redis` `postgreSQL`
-- Technologies:
+- Development:  
+`python` `git` `web crawlers` `tornado` `FastAPI` `celery` `TDD` `swagger` 
+- Databases:  
+`nosql databases` `mongodb` `elasticsearch` `redis` `postgreSQL` `mysql`
+- Technologies:  
 `Rest APIs` `rabbitmq` `cloud`
-- Design: 
-`system arcitecture` `web services` `micro services` `distributed systems`
-- DevOps tools:
+- Design:  
+`system arcitecture` `web services` `micro services` `distributed systems` `SaaS`
+- DevOps tools:  
 `docker` `CICD pipelines` `kubernetes` `argocd`
-- Other: 
+- Other:  
 `linux` `bash` `nginx` `haproxy`
 
 ### Projects
