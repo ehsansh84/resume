@@ -12,9 +12,9 @@ It's my pleasure to work on the edge of technology.
 - Development: 
 `python` `git` `web crawlers` `tornado` `FastAPI` `celery` 
 - Databases:
-`nosql databases` `mongodb` `elasticsearch` `redis`
+`nosql databases` `mongodb` `elasticsearch` `redis` `postgreSQL`
 - Technologies:
-`Rest APIs` `rabbitmq` 
+`Rest APIs` `rabbitmq` `cloud`
 - Design: 
 `system arcitecture` `web services` `micro services` `distributed systems`
 - DevOps tools:
