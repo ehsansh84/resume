@@ -24,3 +24,12 @@ jobs:
           name: 'resume.pdf'
           path: .
 #           path: ${{ steps.publish-document.outputs.pdf }}
+      - name: Publish
+        uses: nogsantos/scp-deploy@master
+        with:
+          src: ${{ steps.publish-document.outputs.pdf }}
+          host: ${{ secrets.MY_SERVER_DOMAIN }}
+          remote: ${{ secrets.MY_SERVER_HTML_ROOT }}
+          port: ${{ secrets.MY_SERVER_SSH_PORT }}
+          user: ${{ secrets.MY_SERVER_SSH_USER }}
+          key: ${{ secrets.MY_PC_PRIVATE_KEY }}
