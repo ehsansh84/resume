@@ -12,7 +12,7 @@ It's my pleasure to work on the edge of technology.
 - Master of science in computer software engineering – University of Tehran – 2012-2014
 ### My skills
 - Development:  
-`python` `git` `web crawlers` `tornado` `FastAPI` `celery` `TDD` `swagger` 
+`python` `git` `web crawlers` `tornado` `FastAPI` `celery` `TDD` `swagger` `sentry`
 - Databases:  
 `nosql databases` `mongodb` `elasticsearch` `redis` `postgreSQL` `mysql`
 - Technologies:  
@@ -25,26 +25,48 @@ It's my pleasure to work on the edge of technology.
 `linux` `bash` `nginx` `haproxy`
 
 ### Projects
->#### DevOps engineer `K8S Cluster manager` 2021
->A project that creates a whole k8s cluster on OpenStack cloud environment through APIs 
+>#### Senior Backend Developer – `K8S Cluster manager` 2021
+> `Description:` I created a microservice to provide kubernetes as a service, User can request for a cluster with 
+> specific workers with specified configurations, Then microservice requests for resources from openstack cloud,
+> configures servers and creates a kubernetes cluster for the customer.    
+> `Challenges:` There were challenges to deal with cloud platform and 3rd party errors and also interfering tasks for multi cluster
+> requests. I solved them by breaking down whole process to multiple tiny tasks in sequences.
 
 >#### Senior Backend Developer – DevOps Engineer `Miz business directory – onmiz.com` 2017 – 2021
->Miz is a business directory that allows people to pin their services on the map and search for services. It can be considered as a customized google map with some localized services
+> `Description:` I designed and developed backend for this business directory to provide users information extracted 
+> from lots of geographic data gathered from users or crawled from sources   
+> `Challenges:` To keep data valid after a while, I designed a gamification system for users, to collect points in 
+> exchange of validating our data. Another challenge was lots of different queries and providing fast response to user 
+> that I handled that using MongoDB indices and redis cache and sometimes elasticsearch for text based queries.    
 
-
-> #### Senior Backend Developer `Miz Newshub – mizkhabar.com` 2019
->Miz newshub is a news crawler that allows user to read his/her customized news daily
+> #### Senior Backend Developer `Miz News Hub – mizkhabar.com` 2019
+> `Description:` In this project I created parallel crawlers to crawl news from more than 200 sources every minute. 
+> Crawling from HTML pages, not only RSS feeds.   
+> `Challenges:` There was lots of challenges in this project:
+> - To handle different HTML structures for each website, I stored structure info inside database for each source and 
+use that info in crawlers. 
+> - To handle rate limits I decided to request in parallel from multiple IPs and of course with more delay.
+> - To handle faster queries, I stored last 24 news inside Redis, about 99% of user requests was for these news and 
+querying from Redis was very good idea.    
 
 >#### Senior Backend Developer `Zibasoo online beauty salon booking system` Jan 2018 – Aug 2020
-> An online beauty salon reservation system that you can find and compare salon's portfolios and prices and decide to choose the most suitable services for you.
+> `Description:` An online beauty salon reservation system that you can find and compare salon's portfolios and prices
+> and decide to choose the most suitable services for you.  
+> `Challenges:` Designing a suitable workflow for user to be able to book a time while there are lots of variety in 
+> salon's times and employees schedules.
+
+>#### Senior Backend developer `Currency signals` 2018
+> `Description:` Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that analyze 1600 crypto currencies based on some strategies using different indicators to find buy/sell signals. The results could be seen on a web panel and be filtered as you wish.
 
 >#### Senior Backend developer `Negahe khabari news bulletin maker` May 2013 – Aug 2016
->Negahe khabari is a newshub project which crawl news from different sources and let user to create a customized bulletin  based on his/her interests
+> `Description:` Negahe khabari is a News Hub project which crawls news from different sources and let user have a 
+> customized bulletin  based on his/her interests  
+> `Challenges:` To show user important news first, I invented a very tricky algorythm to find importance of a news by total
+> shares and like in social networks like twitter and also considering period of growth and lots of other factors.
 
->#### ASP.NET Web developer `Lots of web sites for people and companies` Apr 2010 – Sep 2012
-
->#### Senior Backend developer and strategy implementation `Currency signals` 2018
->Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that analyze 1600 crypto currencies based on some strategies using different indicators to find buy/sell signals. The results could be seen on a web panel and be filtered as you wish.
+>#### Web developer `Lots of web sites for people and companies` Apr 2010 – Sep 2012
+> `Description:` Developing regular websites for business/personal use  
+> `Challenges:` I don't remember but there were lots of challenges :D
 
 ### Personal Projects
 >#### [KM Rest](https://github.com/ehsansh84/km-rest.git)
