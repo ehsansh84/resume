@@ -1,15 +1,12 @@
-# EHSAN SHIRZADI
-## Senior Python backend developer - DevOps engineer
+# **EHSAN SHIRZADI**
+Senior Python backend developer/Team lead  
 
-![](images/tel2.png)+989155066372 [![](images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com) ![](images/web2.png)www.ehsanshirzadi.com
-[![](images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi) [![](images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/) [![](images/github2.png)Github](https://github.com/ehsansh84)
-
-
-### About
 I'm a senior backend developer and DevOps engineer with +18 years of experience in programming. I'm passionate about learning new technologies and I believe the best way to learn is by doing in a fun way.
 It's my pleasure to work on the edge of technology.
+
 ### Education 
 - Master of science in computer software engineering – University of Tehran – 2012-2014
+
 ### My skills
 - Development:  
 `python` `git` `web crawlers` `tornado` `FastAPI` `celery` `TDD` `swagger` `sentry`
@@ -23,6 +20,18 @@ It's my pleasure to work on the edge of technology.
 `docker` `CICD pipelines` `kubernetes` `argocd` `ansible` 
 - Other:  
 `linux` `bash` `nginx` `haproxy`
+
+### Green Web Holding 2021-present
+**Senior Backend Developer/Team lead**
+- Increased developer's operating efficiency by providing structure, CI/CD pipelines, development tools and guidelines.
+- Spending time to hold training camps for developers.
+- Lead the team to develop AWS like microservices. 
+
+### Ariana Holding 2017-2021
+**Senior Backend Developer/Team lead**
+- Creating Miz and Miz and Miz News Hub projects as you can read about below
+- Organising frontend and mobile team to deliver reliable code by consulting them 
+- Lead the team to develop AWS like microservices. 
 
 ### Projects
 >#### Senior Backend Developer – `K8S Cluster manager` 2021
@@ -100,3 +109,6 @@ querying from Redis was very good idea.
 - Test-Driven Development Specialization:
   1. [Test-Driven Development Overview](https://www.coursera.org/account/accomplishments/verify/CGPEXYHRCRSQ)
 
+
+![](images/tel2.png)+989155066372 [![](images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com) ![](images/web2.png)www.ehsanshirzadi.com
+[![](images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi) [![](images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/) [![](images/github2.png)Github](https://github.com/ehsansh84)
