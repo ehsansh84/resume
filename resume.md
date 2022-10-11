@@ -67,7 +67,7 @@ querying from Redis was very good idea.
 >#### Senior Backend developer `Currency signals` 2018
 > `Description:` Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that
 > analyze 1600 Crypto currencies based on some strategies using different indicators to find buy/sell signals. 
-> The results could be seen on a web panel and be filtered as you wish.
+> The results could be seen on a web panel and be filtered as you wish.  
 > `Challenges:` To deal with Binance rate limits I created parallel API requests from multiple servers. 
 
 >#### Senior Backend developer `Negahe khabari news bulletin maker` May 2013 – Aug 2016
