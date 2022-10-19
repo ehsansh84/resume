@@ -109,7 +109,9 @@ querying from Redis was very good idea.
 - Test-Driven Development Specialization:
   1. [Test-Driven Development Overview](https://www.coursera.org/account/accomplishments/verify/CGPEXYHRCRSQ)
 
-
-![](../images/tel2.png)+989155066372 [![](../images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com) ![](../images/web2.png)www.ehsanshirzadi.com
-[![](../images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi) [![](../images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/) [![](../images/github2.png)Github](https://github.com/ehsansh84)
-
+![](../images/tel2.png)+989155066372
+[![](../images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)
+[![](../images/web2.png)www.ehsanshirzadi.com](www.ehsanshirzadi.com)
+[![](../images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
+[![](../images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/)
+[![](../images/github2.png)Github](https://github.com/ehsansh84)
