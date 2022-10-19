@@ -9,9 +9,9 @@ It's my pleasure to work on the edge of technology.
 
 ### My skills
 - Development:  
-`python` `git` `web crawlers` `tornado` `FastAPI` `celery` `TDD` `swagger` `sentry`
+`python` `go` `git` `web crawlers` `tornado` `FastAPI` `celery` `TDD` `swagger` `sentry`
 - Databases:  
-`nosql databases` `mongodb` `elasticsearch` `redis` `postgreSQL` `mysql`
+`mongodb` `elasticsearch` `redis` `postgreSQL` `mysql`
 - Technologies:  
 `Rest APIs` `rabbitmq` `cloud`
 - Design:  
