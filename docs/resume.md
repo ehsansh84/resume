@@ -1,8 +1,8 @@
 # **EHSAN SHIRZADI**
 Senior Python backend developer/Team lead  
 
-I'm a senior backend developer and DevOps engineer with +18 years of experience in programming. I'm passionate about learning new technologies and I believe the best way to learn is by doing in a fun way.
-It's my pleasure to work on the edge of technology.
+Experienced backend developer with +18 years of experience and strong knowledge of programming. Using my experience I can
+deliver high quality software. I am always looking forward to new challenges while keeping self development continuously.
 
 ### Education 
 - Master of science in computer software engineering – University of Tehran – 2012-2014
@@ -34,51 +34,93 @@ It's my pleasure to work on the edge of technology.
 - Lead the team to develop AWS like microservices. 
 
 ### Projects
->#### Senior Backend Developer – `K8S Cluster manager` 2021
-> `Description:` I created a microservice to provide kubernetes as a service, User can request for a cluster with 
+`K8S Cluster manager`
+--------------------
+**Senior Backend Developer – 2021**
+
+Description
+:  I created a microservice to provide kubernetes as a service, User can request for a cluster with 
 > specific workers with specified configurations, Then microservice requests for resources from openstack cloud,
 > configures servers and creates a kubernetes cluster for the customer.    
-> `Challenges:` There were challenges to deal with cloud platform and 3rd party errors and also interfering tasks for multi cluster
+
+Challenges
+:  There were challenges to deal with cloud platform and 3rd party errors and also interfering tasks for multi cluster
 > requests. I solved them by breaking down whole process to multiple tiny tasks in sequences.
 
->#### Senior Backend Developer – DevOps Engineer `Miz business directory – onmiz.com` 2017 – 2021
-> `Description:` I designed and developed backend for this business directory to provide users information extracted 
+`Miz business directory – onmiz.com` 
+--------------------
+**Senior Backend Developer – DevOps Engineer - 2017 – 2021**
+
+Description
+:  I designed and developed backend for this business directory to provide users information extracted 
 > from lots of geographic data gathered from users or crawled from sources   
-> `Challenges:` To keep data valid after a while, I designed a gamification system for users, to collect points in 
+
+Challenges
+:  To keep data valid after a while, I designed a gamification system for users, to collect points in 
 > exchange of validating our data. Another challenge was lots of different queries and providing fast response to user 
 > that I handled that using MongoDB indices and redis cache and sometimes elasticsearch for text based queries.    
 
-> #### Senior Backend Developer `Miz News Hub – mizkhabar.com` 2019
-> `Description:` In this project I created parallel crawlers to crawl news from more than 200 sources every minute. 
-> Crawling from HTML pages, not only RSS feeds.   
-> `Challenges:` There was lots of challenges in this project:
-> - To handle different HTML structures for each website, I stored structure info inside database for each source and 
+`Miz News Hub – mizkhabar.com`
+--------------------
+**Senior Backend Developer - 2019**
+
+Description
+:  In this project I created parallel crawlers to crawl news from more than 200 sources every minute. 
+Crawling from HTML pages, not only RSS feeds.   
+
+Challenges
+:  There was lots of challenges in this project:
+- To handle different HTML structures for each website, I stored structure info inside database for each source and 
 use that info in crawlers. 
-> - To handle rate limits I decided to request in parallel from multiple IPs and of course with more delay.
-> - To handle faster queries, I stored last 24 news inside Redis, about 99% of user requests was for these news and 
+- To handle rate limits I decided to request in parallel from multiple IPs and of course with more delay.
+- To handle faster queries, I stored last 24 news inside Redis, about 99% of user requests was for these news and 
 querying from Redis was very good idea.    
 
->#### Senior Backend Developer `Zibasoo online beauty salon booking system` Jan 2018 – Aug 2020
-> `Description:` An online beauty salon reservation system that you can find and compare salon's portfolios and prices
-> and decide to choose the most suitable services for you.  
-> `Challenges:` Designing a suitable workflow for user to be able to book a time while there are lots of variety in 
-> salon's times and employees schedules.
+`Zibasoo online beauty salon booking system` 
+--------------------
+**Senior Backend Developer - Jan 2018 – Aug 2020**  
 
->#### Senior Backend developer `Currency signals` 2018
-> `Description:` Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that
-> analyze 1600 Crypto currencies based on some strategies using different indicators to find buy/sell signals. 
-> The results could be seen on a web panel and be filtered as you wish.  
-> `Challenges:` To deal with Binance rate limits I created parallel API requests from multiple servers. 
+Description
+:  An online beauty salon reservation system that you can find and compare salon's portfolios and prices
+and decide to choose the most suitable services for you.    
 
->#### Senior Backend developer `Negahe khabari news bulletin maker` May 2013 – Aug 2016
-> `Description:` Negahe khabari is a News Hub project which crawls news from different sources and let user have a 
-> customized bulletin  based on his/her interests  
-> `Challenges:` To show user important news first, I invented a very tricky algorythm to find importance of a news by total
-> shares and like in social networks like twitter and also considering period of growth and lots of other factors.
+Challenges
+:  Designing a suitable workflow for user to be able to book a time while there are lots of variety in 
+salon's times and employees schedules.
 
->#### Web developer `Lots of web sites for people and companies` Apr 2010 – Sep 2012
-> `Description:` Developing regular websites for business/personal use  
-> `Challenges:` I don't remember but there were lots of challenges :D
+`Currency signals`
+--------------------
+**Senior Backend developer - 2018**
+
+Description
+:  Currency signals is a project to release buy/sell signals for Binance platform. There are daemons that
+analyze 1600 Crypto currencies based on some strategies using different indicators to find buy/sell signals. 
+The results could be seen on a web panel and be filtered as you wish.  
+
+Challenges
+:  To deal with Binance rate limits I created parallel API requests from multiple servers. 
+
+`Negahe khabari news bulletin maker`
+--------------------
+**Senior Backend developer - May 2013 – Aug 2016**
+
+Description
+:  Negahe khabari is a News Hub project which crawls news from different sources and let user have a 
+customized bulletin  based on his/her interests  
+
+Challenges
+:  To show user important news first, I invented a very tricky algorythm to find importance of a news by total
+shares and like in social networks like twitter and also considering period of growth and lots of other factors.
+
+`Lots of web sites for people and companies`
+--------------------
+**Freelance Web developer - Apr 2010 – Sep 2012**
+
+Description
+:  Developing regular websites for business/personal use  
+
+Challenges
+:   I can't remember but there were lots of challenges :D
 
 ### Personal Projects
 >#### [KM Rest](https://github.com/ehsansh84/km-rest.git)
@@ -86,7 +128,9 @@ querying from Redis was very good idea.
 > my needs in my projects.
 
 >#### Travian bot
->A few years ago I used to play Travian online game, I created a bot to play it for me exactly the way I was playing :)
+
+>A few years ago I used to play Travian online game, I created a bot to play it for me exactly the way I was playing :)  
+Technical Experience
 
 ### Publications
 - [Adverse Drug Event Discovery Using Biomedical Literature: A Big Data Neural Network Adventure](https://www.ncbi.nlm.nih.gov/pubmed/29222076)
@@ -109,9 +153,11 @@ querying from Redis was very good idea.
 - Test-Driven Development Specialization:
   1. [Test-Driven Development Overview](https://www.coursera.org/account/accomplishments/verify/CGPEXYHRCRSQ)
 
-![](../images/tel2.png)+989155066372
-[![](../images/email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)
-[![](../images/web2.png)www.ehsanshirzadi.com](www.ehsanshirzadi.com)
-[![](../images/stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
-[![](../images/linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/)
-[![](../images/github2.png)Github](https://github.com/ehsansh84)
+![](./tel2.png)+989155066372
+[![](./email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)
+[![](./web2.png)www.ehsanshirzadi.com](www.ehsanshirzadi.com)
+[![](./stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
+[![](./linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/)
+[![](./github2.png)Github](https://github.com/ehsansh84)
+
+<img src="tel2.png" alt="drawing" width="200"/>FU
