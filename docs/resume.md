@@ -1,8 +1,10 @@
 # **EHSAN SHIRZADI**
 Senior Python backend developer/Team lead  
 
-Experienced backend developer with +18 years of experience and strong knowledge of programming. Using my experience I can
-deliver high quality software. I am always looking forward to new challenges while keeping self development continuously.
+As a software engineer with over 15 years of experience, I have honed my skills in software design, technical leadership, development, and testing, with a particular focus on national and international projects in areas such as data gathering, infrastructure, TDD, and microservices.
+Throughout my career, I have worked in various roles such as Developer, Team Lead, Software Architect, and DevOps, collaborating with multiple teams and companies to deliver successful outcomes.
+My expertise in Python, SQL, and NoSQL databases, as well as my knowledge of the software development life cycle, has enabled me to create efficient and effective software solutions. I am results-oriented, with a track record of successfully managing multiple projects and responsibilities simultaneously.
+I am passionate about learning new technologies, methodologies, strategies, and processes, and I am excited to bring this hunger for knowledge to my work as a software engineer. I am confident that my skills, experience, and motivation make me an excellent candidate for any software engineering role.
 
 ### Education 
 - Master of science in computer software engineering – University of Tehran – 2012-2014
@@ -153,11 +155,9 @@ Technical Experience
 - Test-Driven Development Specialization:
   1. [Test-Driven Development Overview](https://www.coursera.org/account/accomplishments/verify/CGPEXYHRCRSQ)
 
-![](./tel2.png)+989155066372
-[![](./email2.png)ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)
-[![](./web2.png)www.ehsanshirzadi.com](www.ehsanshirzadi.com)
-[![](./stack2.png)Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
-[![](./linkdin2.png)Linkedin](https://www.linkedin.com/in/eshirzadi/)
-[![](./github2.png)Github](https://github.com/ehsansh84)
+![]()Tel: +989155066372
+[![]()ehsan.shirzadi@gmail.com](mailto:ehsan.shirzadi@gmail.com)
+[![]()Stackoverflow](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
+[![]()Linkedin](https://www.linkedin.com/in/eshirzadi/)
+[![]()Github](https://github.com/ehsansh84)
 
-<img src="tel2.png" alt="drawing" width="200"/>FU
